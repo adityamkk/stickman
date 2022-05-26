@@ -1,0 +1,3 @@
+Stickman (c) 2020 Aditya M.
+It is free for personal use! Enjoy!
+Made in GameMaker
